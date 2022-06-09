@@ -1,4 +1,4 @@
-# Tom-9-Upload (Apache Tomcat version 9.0.31 Exploit) 
+# Tom-9-Upload (Apache Tomcat version 9.0.31 Exploit) (Authenticated)
 Tom-9-Upload is a automated script which is used to generate a war payload via msfvenom and upload it to the tomcat 9 server via user creds and trigger a reverse shell
 
 setup a netcat listner
